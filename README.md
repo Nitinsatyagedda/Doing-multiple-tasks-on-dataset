@@ -48,7 +48,7 @@ Task: Represent output of above 3 tasks either in streamlit.
 
 # Results
 Task 2: 
-The results of task 2 is 
+The results of task 2 is 'log_reg_predictions.csv','rf_predictions.csv',svm_predictions.csv'
 
 Task 3: 
 The results of task 3 is 
