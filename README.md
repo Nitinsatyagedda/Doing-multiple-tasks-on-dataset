@@ -4,7 +4,8 @@ This project comprises four tasks, focusing on different aspects of machine lear
 # List of contents:
 1. Tasks
 2. Required libraries
-3. 
+3. Program files
+4. Results
 
 # Tasks
 Task 1: Machine Learning - Clustering
@@ -46,12 +47,22 @@ Task: Represent output of above 3 tasks either in streamlit.
 8. from sklearn.svm import SVC
 9. from sklearn.model_selection import train_test_split, cross_val_score
 
+# Program files: 
+1. Task 1: The detailed program of task 1 is in 'Task 1.ipynb'
+2. Task 2: The detailed program of task 2 is in 'Task 2.ipynb'
+3. Task 3: The detailed program of task 3 is in 'Task 3.ipynb'
+4. Task 4: The detailed program of task 4 is in 'Resolute.py'
+
 # Results
+Task 1:
+The result of task 2 is 'Task 1.ipynb'
 Task 2: 
 The results of task 2 is 'log_reg_predictions.csv','rf_predictions.csv',svm_predictions.csv'
-
 Task 3: 
-The results of task 3 is 
+The results of task 3 is 'Task 2.ipynb'
+Task 4:
+The result of task 4 is 
+
 
 
 
