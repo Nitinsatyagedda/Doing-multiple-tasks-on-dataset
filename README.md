@@ -36,18 +36,12 @@ Task 4: Basic Streamlit
 Task: Represent output of above 3 tasks either in streamlit.
 
 # Required Libraries
-import pandas as pd
-import numpy as np
-import streamlit as st
-
-from sklearn.cluster import KMeans
-
-from sklearn.preprocessing import StandardScaler, LabelEncoder
-
-from sklearn.linear_model import LogisticRegression
-
-from sklearn.ensemble import RandomForestClassifier
-
-from sklearn.svm import SVC
-
-from sklearn.model_selection import train_test_split, cross_val_score
+1. import pandas as pd
+2. import numpy as np
+3. import streamlit as st
+4. from sklearn.cluster import KMeans
+5. from sklearn.preprocessing import StandardScaler, LabelEncoder
+6. from sklearn.linear_model import LogisticRegression
+7. from sklearn.ensemble import RandomForestClassifier
+8. from sklearn.svm import SVC
+9. from sklearn.model_selection import train_test_split, cross_val_score
