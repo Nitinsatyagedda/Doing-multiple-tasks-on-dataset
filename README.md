@@ -9,19 +9,27 @@ This project comprises four tasks, focusing on different aspects of machine lear
 # Tasks
 Task 1: Machine Learning - Clustering
 Objective: Use a clustering technique to extract patterns or segregate data into groups.
+
 User Story: Users should be able to provide a data point (a row) and the program should identify the cluster to which the given data point belongs and explain why.
+
 Hint: Use any clustering algorithm such as K-means, DBSCAN, or hierarchical clustering.
 
 Task 2: Machine Learning - Classification
 Objective: Train classification model(s) on the training dataset and test the algorithm on the test dataset. Share the predicted target values for evaluation.
-Train multiple classification algorithms (e.g., logistic regression, decision trees, random forests, SVM).
+
+Train multiple classification algorithms (e.g., logistic regression, random forests, SVM).
+
 Share the target values for each algorithm.
+
 Provide the training accuracy and explain the choice of algorithms.
 
 Task 3: Python Data Aggregation
 Objective: Use the provided raw data to derive specific metrics.
+
 Calculate the total duration for each "inside" and "outside" activity on a date-wise basis.
+
 Calculate the date-wise number of "picking" and "placing" activities.
+
 Sample output is provided in the output sheet.
 
 Task 4: Basic Streamlit
