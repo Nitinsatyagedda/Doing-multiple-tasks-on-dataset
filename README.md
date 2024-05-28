@@ -56,12 +56,19 @@ Task: Represent output of above 3 tasks either in streamlit.
 
 # Results
 Task 1:
+
 The result of task 2 is 'Task 1.ipynb'
+
 Task 2: 
+
 The results of task 2 is 'log_reg_predictions.csv','rf_predictions.csv',svm_predictions.csv'
+
 Task 3: 
+
 The results of task 3 is 'Task 2.ipynb'
+
 Task 4:
+
 The result of task 4 is 'Streamlit1.png', 'Streamlit2.png', 'Streamlit3.png'.
 
 # Contact
