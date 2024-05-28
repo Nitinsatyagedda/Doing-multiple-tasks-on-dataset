@@ -45,3 +45,18 @@ Task: Represent output of above 3 tasks either in streamlit.
 7. from sklearn.ensemble import RandomForestClassifier
 8. from sklearn.svm import SVC
 9. from sklearn.model_selection import train_test_split, cross_val_score
+
+# Results
+Task 2: 
+The results of task 2 is 
+
+Task 3: 
+The results of task 3 is 
+
+
+
+
+
+
+
+
