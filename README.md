@@ -6,6 +6,7 @@ This project comprises four tasks, focusing on different aspects of machine lear
 2. Required libraries
 3. Program files
 4. Results
+5. Contact
 
 # Tasks
 Task 1: Machine Learning - Clustering
@@ -13,7 +14,7 @@ Objective: Use a clustering technique to extract patterns or segregate data into
 
 User Story: Users should be able to provide a data point (a row) and the program should identify the cluster to which the given data point belongs and explain why.
 
-Hint: Use any clustering algorithm such as K-means, DBSCAN, or hierarchical clustering.
+Hint: Use any clustering algorithm such as K-means
 
 Task 2: Machine Learning - Classification
 Objective: Train classification model(s) on the training dataset and test the algorithm on the test dataset. Share the predicted target values for evaluation.
@@ -61,7 +62,10 @@ The results of task 2 is 'log_reg_predictions.csv','rf_predictions.csv',svm_pred
 Task 3: 
 The results of task 3 is 'Task 2.ipynb'
 Task 4:
-The result of task 4 is 
+The result of task 4 is 'Streamlit1.png', 'Streamlit2.png', 'Streamlit3.png'.
+
+# Contact
+For any inquiries or feedback, please contact nitinsatyageddaemail@gmail.com.
 
 
 
