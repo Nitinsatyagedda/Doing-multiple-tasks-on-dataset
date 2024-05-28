@@ -52,24 +52,16 @@ Task: Represent output of above 3 tasks either in streamlit.
 1. Task 1: The detailed program of task 1 is in 'Task 1.ipynb'
 2. Task 2: The detailed program of task 2 is in 'Task 2.ipynb'
 3. Task 3: The detailed program of task 3 is in 'Task 3.ipynb'
-4. Task 4: The detailed program of task 4 is in 'Resolute.py'
+4. Task 4: The detailed program of task 4 is in 'resolute.py'
 
 # Results
-Task 1:
+Task 1: The result of task 2 is 'Task 1.ipynb'
 
-The result of task 2 is 'Task 1.ipynb'
+Task 2: The results of task 2 is 'log_reg_predictions.csv','rf_predictions.csv',svm_predictions.csv'
 
-Task 2: 
+Task 3: The results of task 3 is 'Task 2.ipynb'
 
-The results of task 2 is 'log_reg_predictions.csv','rf_predictions.csv',svm_predictions.csv'
-
-Task 3: 
-
-The results of task 3 is 'Task 2.ipynb'
-
-Task 4:
-
-The result of task 4 is 'Streamlit1.png', 'Streamlit2.png', 'Streamlit3.png'.
+Task 4: The result of task 4 is 'Streamlit1.png', 'Streamlit2.png', 'Streamlit3.png'.
 
 # Contact
 For any inquiries or feedback, please contact nitinsatyageddaemail@gmail.com.
