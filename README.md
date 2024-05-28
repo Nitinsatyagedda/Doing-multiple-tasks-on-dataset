@@ -37,9 +37,7 @@ Task: Represent output of above 3 tasks either in streamlit.
 
 # Required Libraries
 import pandas as pd
-
 import numpy as np
-
 import streamlit as st
 
 from sklearn.cluster import KMeans
